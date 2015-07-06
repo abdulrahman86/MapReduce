@@ -1,0 +1,1 @@
+javac /Users/abdullahsattar/eclipse/workspace/MapReduce/src/mapreduce/master/Master.java -d /Users/abdullahsattar/eclipse/workspace/MapReduce/bin  -sourcepath /Users/abdullahsattar/eclipse/workspace/MapReduce/src/mapreduce/master/src -cp /Users/abdullahsattar/eclipse/workspace/MapReduce/src
